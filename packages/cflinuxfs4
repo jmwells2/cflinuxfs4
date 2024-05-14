@@ -189,5 +189,6 @@ vim-tiny
 wget
 whiptail
 xkb-data
+xmlsec1
 xxd
 zip
